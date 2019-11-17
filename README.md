@@ -4,4 +4,4 @@ This is the place where you can find some of the projects (including my masters 
 
 ## Projects
 
-### 
+### [Mathematical Models of HIV and Immune Response] (https://github.com/ismail-hm/Academic-Portfolio/blob/master/HIV-ImmuneResponse.pdf)
