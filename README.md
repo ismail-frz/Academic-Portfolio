@@ -1,6 +1,6 @@
 # Academic-Portfolio
 
-This is the place where you can find some of the projects (including my masters thesis) I worked on during my studies.
+This is the place where you can find some of the projects (including my masters thesis) I worked on during my studies. Click on the project title to access the presentation slides written in LaTex.
 
 ## Projects
 
